@@ -1,25 +1,24 @@
 # 👋 Hi, I'm Angelo Bamba  
 **Adobe Certified Magento 2 Developer | Full-Stack PHP Developer**
 
-I’m a full-stack web developer with 2.5 years of hands-on experience in **Magento 2**, **Laravel**, and **WordPress**.  
-I specialize in building custom eCommerce modules, integrating REST APIs, and optimizing performance across both frontend and backend systems.  
-My work focuses on creating scalable, efficient, and user-friendly web solutions that align with modern development standards.
+I’m a full-stack web developer with 2.5 years of experience in **Magento 2**, **Laravel**, and **WordPress**.  
+I focus on building scalable backend systems and responsive frontends that improve performance and user experience across eCommerce platforms.
 
 ---
 
 ## 💼 Projects
 
-### 🧩 [Magento 2 E-Commerce Store Migration](https://github.com/angelo-bamba/magento2-store-migration)
-Migrated a Magento 2 storefront from **Luma** to **Hyvä**, improving site speed, UI consistency, and overall performance.
+### 🧩 [Magento 2 Theme Migration](https://github.com/angelobamba/magento2-theme-migration)
+Migrated a Magento 2 storefront from **Luma** to **Hyvä**, handled the **overall homepage re-design**, and developed a **dynamic header** with optimized layout and responsiveness for improved performance and UI consistency.
 
-### 🔗 [Laravel Integration with Magento Admin](https://github.com/angelo-bamba/laravel-magento-integration)
-Built a **Laravel CRUD system** integrated with Magento Admin using REST APIs and token-based authentication.
+### 🔗 [Laravel Integration with Magento Admin](https://github.com/angelobamba/laravel-magento-integration)
+Developed a **Laravel CRUD system** integrated with **Magento 2 Admin Panel**, implemented **Google Drive API** for cloud storage, and contributed to **UI implementation** based on Figma designs.
 
-### ⚙️ [Magento 2 Custom Filters and UI Enhancements](https://github.com/angelo-bamba/magento2-filters-and-ui-enhancements)
-Developed **custom product filters** and UI improvements for better product search and catalog interaction.
+### ⚙️ [Magento 2 Custom Filter and Checkout Enhancement](https://github.com/angelobamba/magento2-custom-filter-and-checkout-enhancement)
+Created **custom slider filters** for **price and grams**, handled **checkout UI and logic** with dynamic data display, and implemented the **final checkout step UI** for a mobile Magento 2 project integrated with a mobile application.
 
-### 🌐 [WordPress CMS Enhancements](https://github.com/angelo-bamba/wordpress-cms-enhancements)
-Extended WordPress CMS functionality through **custom database tables** and **content sorting** for flexible content management.
+### 🌐 [WordPress CMS Enhancements](https://github.com/angelobamba/wordpress-cms-enhancements)
+Enhanced a WordPress CMS by creating a **custom Holidays table** (for Philippine holidays) with **dynamic ASC/DESC sorting**, implemented the **UI from mockups**, and developed a **smooth scrolling navigation** where menu items (like “About Us”) scroll to homepage sections instead of loading new pages.
 
 ---
 
@@ -29,10 +28,10 @@ Extended WordPress CMS functionality through **custom database tables** and **co
 `HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `LESS` • `RequireJS` • `Alpine.js` • `Knockout.js`
 
 ### ⚙️ **Backend Technologies**
-`Magento 2` • `PHP` • `Laravel` • `Livewire` • `WordPress` • `MySQL` • `REST API`
+`Magento 2` • `Laravel` • `Livewire` • `WordPress` • `PHP` • `MySQL` • `REST API`
 
 ### 🧱 **Development Tools**
-`Git` • `Github` • `Bitbucket` • `Composer` • `NPM` • `Docker` • `PhpStorm` • `Postman`
+`Git` • `Github` • `Bitbucket` • `Composer` • `Docker` • `NPM` • `PhpStorm` • `Postman`
 
 ---
 
@@ -50,4 +49,4 @@ Extended WordPress CMS functionality through **custom database tables** and **co
 ---
 
 ⭐ **Thanks for visiting my portfolio!**  
-Feel free to explore my repositories and connect — I’m always open to new opportunities in **eCommerce and web development**.
+Explore my repositories to see my work in **Magento**, **Laravel**, and **WordPress** development.
