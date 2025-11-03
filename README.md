@@ -14,10 +14,10 @@ Migrated a Magento 2 storefront from **Luma** to **Hyvä**, handled the **overal
 ### 🔗 [Laravel Integration with Magento Admin](https://github.com/angelo-bamba/laravel-magento-integration)
 Developed a **Laravel CRUD system** integrated with **Magento 2 Admin Panel**, implemented **Google Drive API** for cloud storage, and contributed to **UI implementation** based on Figma designs.
 
-### ⚙️ [Magento 2 Custom Filter and Checkout Enhancement](https://github.com/angelo-bamba/magento2-custom-filter-and-checkout-enhancement)
+### ⚙️ [Magento 2 Custom Filter and Checkout Enhancement](https://github.com/angelo-bamba/magento2-custom-filter-and-checkout-enchancement)
 Created **custom slider filters** for **price and grams**, handled **checkout UI and logic** with dynamic data display, and implemented the **final checkout step UI** for a mobile Magento 2 project integrated with a mobile application.
 
-### 🌐 [WordPress CMS Enhancements](https://github.com/angelo-bamba/wordpress-cms-enhancements)
+### 🌐 [WordPress CMS Enhancements](https://github.com/angelo-bamba/wordpress-cms-enhancement)
 Enhanced a WordPress CMS by creating a **custom Holidays table** (for Philippine holidays) with **dynamic ASC/DESC sorting**, implemented the **UI from mockups**, and developed a **smooth scrolling navigation** where menu items (like “About Us”) scroll to homepage sections instead of loading new pages.
 
 ---
